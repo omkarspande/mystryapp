@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Meeting Notes",
+        "content": "Discuss project milestones and deadlines.",
+        "received": "2024-08-01"
+    },
+    {
+        "title": "Shopping List",
+        "content": "Buy milk, eggs, and bread.",
+        "received": "2024-08-05"
+    },
+    {
+        "title": "Event Reminder",
+        "content": "Don't forget the team building event on Friday.",
+        "received": "2024-08-08"
+    },
+    {
+        "title": "Book Recommendations",
+        "content": "Check out 'The Alchemist' and 'Atomic Habits'.",
+        "received": "2024-08-10"
+    },
+    {
+        "title": "Workout Plan",
+        "content": "Start with a 10-minute warm-up, followed by strength training.",
+        "received": "2024-08-12"
+    },
+    {
+        "title": "Recipe",
+        "content": "Try making spaghetti carbonara for dinner.",
+        "received": "2024-08-15"
+    },
+    {
+        "title": "Weekly Goals",
+        "content": "Finish the project proposal and submit the report.",
+        "received": "2024-08-18"
+    },
+    {
+        "title": "Travel Itinerary",
+        "content": "Visit the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral.",
+        "received": "2024-08-20"
+    },
+    {
+        "title": "Project Update",
+        "content": "The design phase is complete, and development is underway.",
+        "received": "2024-08-22"
+    },
+    {
+        "title": "Birthday Reminder",
+        "content": "Don't forget to wish John a happy birthday.",
+        "received": "2024-08-25"
+    }
+]
